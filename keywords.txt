@@ -1,0 +1,28 @@
+  
+#######################################
+# Syntax Coloring Map For Grove adxl357b.
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+KEYWORD1	Adxl357b
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+KEYWORD2	setAdxlRange
+KEYWORD2	setPowerCtr
+KEYWORD2	readTemperature
+KEYWORD2	setActThreshold
+KEYWORD2	setIntPinMap
+KEYWORD2	setActEnable
+KEYWORD2	checkDataReady
+KEYWORD2	readXYZAxisResultData
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
