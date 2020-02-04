@@ -1,4 +1,4 @@
-Seeed adxl357b
+Seeed adxl357b  [![Build Status](https://travis-ci.com/Seeed-Studio/Seeed_ADXL357B.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Seeed_ADXL357B)
 =======================================
   Grove Accelerometer sensor
 ---------------------------------------
