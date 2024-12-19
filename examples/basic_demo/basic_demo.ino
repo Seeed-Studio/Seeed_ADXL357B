@@ -1,8 +1,12 @@
 #include "Seeed_adxl357b.h"
 
 
+
 #if defined(ARDUINO_ARCH_AVR)
     #pragma message("Defined architecture for ARDUINO_ARCH_AVR.")
+    #define SERIAL Serial
+#elif defined(SEEED_XIAO_M0)
+    #pragma message("Defined architecture for SEEED_XIAO_M0.")
     #define SERIAL Serial
 #elif defined(ARDUINO_ARCH_SAM)
     #pragma message("Defined architecture for ARDUINO_ARCH_SAM.")
